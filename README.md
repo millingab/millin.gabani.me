@@ -1,6 +1,5 @@
 # millin.gabani.me
 
 Developed using angularJS and jQuery. 
-- Completely dynamic
-- used routing for fast loading
-- site speaks for itself
+- partial rendering for faster page load.
+- dynamic site: makes adding and updating content easier 
